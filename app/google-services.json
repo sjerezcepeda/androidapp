@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "810154094728",
+    "firebase_url": "https://smartlight-alert-230af-default-rtdb.firebaseio.com",
+    "project_id": "smartlight-alert-230af",
+    "storage_bucket": "smartlight-alert-230af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810154094728:android:bdc3938283a88005fdef3d",
+        "android_client_info": {
+          "package_name": "cl.smartlight.alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfGQ4lVRHJ9r0lXeHWYoy54DpRVfSWg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
